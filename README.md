@@ -8,4 +8,4 @@ Category: IBM Cloud Application
 Skills Required:
 Python,Python Web Frame Works,Python For Data Analysis,Python For Data Visualization,Data Preprocessing Techniques,Classification Algorithms
 
-Team members are: Dev Singh, Yash Reddy and Akshat Bhardwaj.
+
